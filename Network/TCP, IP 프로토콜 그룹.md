@@ -1,7 +1,5 @@
 ## TCP/IP 프로토콜 그룹
 
----
-
 <img width = "70%" src = "https://blog.kakaocdn.net/dn/lvby2/btryYonh5jg/ZnSRgg7kczIZm6QXtP8m3K/img.png"/>
 
 - 각 장치는 5개의 계층을 가지고 있음
